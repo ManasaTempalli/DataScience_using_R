@@ -1,0 +1,66 @@
+  frequency      words
+1       348       said
+2       347      syria
+3       281     syrian
+4       201 government
+5       185     turkey
+6       179       isil
+NULL
+RStudioGD 
+        2 
+NULL
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+  [1] "according"     "accused"       "across"        "actors"        "afghan"       
+  [6] "afghanistan"   "afrin"         "agency"        "aid"           "air"          
+ [11] "allies"        "ally"          "along"         "also"          "among"        
+ [16] "ankara"        "another"       "anti"          "arab"          "arabia"       
+ [21] "area"          "areas"         "armed"         "army"          "around"       
+ [26] "articleguid"   "assad"         "attack"        "attacks"       "back"         
+ [31] "backed"        "bashar"        "began"         "bombing"       "border"       
+ [36] "borders"       "called"        "campaign"      "can"           "capital"      
+ [41] "ceasefire"     "chemical"      "children"      "city"          "civil"        
+ [46] "civilian"      "civilians"     "claimed"       "coalition"     "conference"   
+ [51] "conflict"      "control"       "council"       "countries"     "country"      
+ [56] "crisis"        "damascus"      "day"           "decision"      "defence"      
+ [61] "democratic"    "document"      "earlier"       "east"          "eastern"      
+ [66] "efforts"       "end"           "erdogan"       "europe"        "even"         
+ [71] "far"           "fight"         "fighters"      "fighting"      "first"        
+ [76] "forces"        "foreign"       "four"          "fsa"           "general"      
+ [81] "ghani"         "ghouta"        "government"    "group"         "groups"       
+ [86] "held"          "help"          "hezbollah"     "hts"           "human"        
+ [91] "humanitarian"  "idlib"         "including"     "international" "iran"         
+ [96] "iranian"       "iraq"          "iraqi"         "isil"          "isis"         
+[101] "islamic"       "israel"        "israeli"       "jabhat"        "january"      
+[106] "kabul"         "killed"        "killing"       "known"         "kurdish"      
+[111] "kuwait"        "large"         "last"          "late"          "later"        
+[116] "launched"      "least"         "led"           "levant"        "libya"        
+[121] "local"         "long"          "major"         "many"          "media"        
+[126] "members"       "military"      "militia"       "million"       "minister"     
+[131] "monday"        "month"         "much"          "nato"          "near"         
+[136] "new"           "news"          "non"           "northern"      "northwestern" 
+[141] "now"           "offensive"     "office"        "official"      "officials"    
+[146] "one"           "operation"     "operations"    "opposition"    "part"         
+[151] "party"         "peace"         "people"        "percent"       "pkk"          
+[156] "police"        "policy"        "political"     "power"         "presence"     
+[161] "president"     "pro"           "process"       "protection"    "province"     
+[166] "pyd"           "qaeda"         "qatar"         "raids"         "rebel"        
+[171] "rebels"        "recent"        "refugees"      "regime"        "region"       
+[176] "reported"      "reports"       "resolution"    "response"      "return"       
+[181] "right"         "rights"        "russia"        "russian"       "said"         
+[186] "saturday"      "saudi"         "say"           "saying"        "says"         
+[191] "sdf"           "secretary"     "security"      "several"       "sham"         
+[196] "since"         "situation"     "social"        "soldiers"      "solution"     
+[201] "south"         "southern"      "state"         "statement"     "states"       
+[206] "still"         "suicide"       "support"       "syria"         "syrian"       
+[211] "taliban"       "talks"         "terrorist"     "three"         "thursday"     
+[216] "tillerson"     "time"          "told"          "took"          "troops"       
+[221] "trump"         "tuesday"       "tunisian"      "turkey"        "turkish"      
+[226] "two"           "united"        "use"           "used"          "violence"     
+[231] "want"          "war"           "way"           "weapons"       "week"         
+[236] "well"          "will"          "within"        "women"         "words"        
+[241] "world"         "year"          "years"         "ypg"          
+RStudioGD 
+        2 
